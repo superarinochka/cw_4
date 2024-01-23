@@ -1,0 +1,902 @@
+[
+    {
+        "id": "91972586",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91972586",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "employer": "Группа компаний Hadson Family",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91782346",
+        "title": "Повар холодного цеха / повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91782346",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Белок",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91818590",
+        "title": "Старший повар",
+        "url": "https://hh.ru/vacancy/91818590",
+        "salary_from": 55000,
+        "salary_to": 60000,
+        "employer": "Dolce (ООО Успех Томск)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91896622",
+        "title": "Повар в офис",
+        "url": "https://hh.ru/vacancy/91896622",
+        "salary_from": 65000,
+        "salary_to": 80000,
+        "employer": "ГРИН СИТИ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91376190",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91376190",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Павлов Алексей Анатольевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91869663",
+        "title": "Повар ресторана",
+        "url": "https://hh.ru/vacancy/91869663",
+        "salary_from": 70000,
+        "salary_to": 108000,
+        "employer": "Кафе-бар Зая",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91955687",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91955687",
+        "salary_from": 73500,
+        "salary_to": null,
+        "employer": "Gosti Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91793476",
+        "title": "Старший повар",
+        "url": "https://hh.ru/vacancy/91793476",
+        "salary_from": 65000,
+        "salary_to": 95000,
+        "employer": "I Wok You",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91674329",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91674329",
+        "salary_from": null,
+        "salary_to": 100000,
+        "employer": "САВВА",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92006433",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/92006433",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employer": "Антич Неманя",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91470645",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91470645",
+        "salary_from": 75000,
+        "salary_to": 85000,
+        "employer": "FRESH FOOD |",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91900562",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91900562",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "employer": "Бутчхаус",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92054415",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/92054415",
+        "salary_from": 105000,
+        "salary_to": 105000,
+        "employer": "ГК Новиков",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91807260",
+        "title": "Повар Горячего Цеха",
+        "url": "https://hh.ru/vacancy/91807260",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Эльф",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91102423",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91102423",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Бизнес-центр Европа",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91970807",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91970807",
+        "salary_from": 85000,
+        "salary_to": 100000,
+        "employer": "Варград",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91826226",
+        "title": "Повара холодного и горячего цеха",
+        "url": "https://hh.ru/vacancy/91826226",
+        "salary_from": 85000,
+        "salary_to": 100000,
+        "employer": "Квартира 44",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91303451",
+        "title": "Повар ГОРЯЧЕГО ЦЕХА (проект Novikov Group)",
+        "url": "https://hh.ru/vacancy/91303451",
+        "salary_from": 111540,
+        "salary_to": 115000,
+        "employer": "ТРАСТ ФУД",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91355167",
+        "title": "Повар на производство",
+        "url": "https://hh.ru/vacancy/91355167",
+        "salary_from": 85000,
+        "salary_to": 110000,
+        "employer": "ТС Эксклюзив",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92039457",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/92039457",
+        "salary_from": 100000,
+        "salary_to": 120000,
+        "employer": "Парадиз",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91901641",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91901641",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "employer": "Ule Thai",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92024266",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/92024266",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer": "Дионис",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91794475",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91794475",
+        "salary_from": 75600,
+        "salary_to": null,
+        "employer": "Футура",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91418685",
+        "title": "Повар ресторана",
+        "url": "https://hh.ru/vacancy/91418685",
+        "salary_from": 55000,
+        "salary_to": 80000,
+        "employer": "TomYumBar (ООО Первый)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91903548",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91903548",
+        "salary_from": 65000,
+        "salary_to": null,
+        "employer": "Story",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91364948",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91364948",
+        "salary_from": 55000,
+        "salary_to": 65000,
+        "employer": "Рамен с уткой",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92019351",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/92019351",
+        "salary_from": 72000,
+        "salary_to": 84000,
+        "employer": "Парадиз",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92008725",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/92008725",
+        "salary_from": 60000,
+        "salary_to": 70000,
+        "employer": "Wine puppets",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91863999",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91863999",
+        "salary_from": 75000,
+        "salary_to": 100000,
+        "employer": "Ресторан Faces",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91760708",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91760708",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Захарова Соня Александровна",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91532961",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91532961",
+        "salary_from": 60000,
+        "salary_to": 75000,
+        "employer": "Ресторан Sabai Bar",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91145364",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91145364",
+        "salary_from": 84240,
+        "salary_to": null,
+        "employer": "Ресторан GUSTOGRAM",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91921889",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91921889",
+        "salary_from": 52000,
+        "salary_to": null,
+        "employer": "Распарье",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91559704",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91559704",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Пачина Наталья Владимировна",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91661102",
+        "title": "Повар (фуд-корт)",
+        "url": "https://hh.ru/vacancy/91661102",
+        "salary_from": 167200,
+        "salary_to": null,
+        "employer": "РольфТрэйд",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91457802",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91457802",
+        "salary_from": 65000,
+        "salary_to": 90000,
+        "employer": "Hygge Restaurant",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91675645",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91675645",
+        "salary_from": 65000,
+        "salary_to": null,
+        "employer": "Mercure, Нижний Новгород",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91439044",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91439044",
+        "salary_from": 90000,
+        "salary_to": null,
+        "employer": "Новая Линия",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91962074",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91962074",
+        "salary_from": 28000000,
+        "salary_to": null,
+        "employer": "ADRIANO",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "90223193",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/90223193",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer": "Кофейня termos",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91956991",
+        "title": "Повар холодного цеха в BeefZavod",
+        "url": "https://hh.ru/vacancy/91956991",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Beef Zavod",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92039717",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/92039717",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Семейный ресторан КумКума",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "89357053",
+        "title": "Повар в ресторан Beerman&Пицца",
+        "url": "https://hh.ru/vacancy/89357053",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "employer": "BEERMAN&ПИЦЦА",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "90970864",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/90970864",
+        "salary_from": 60000,
+        "salary_to": 70000,
+        "employer": "Тимвайз Про",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91967309",
+        "title": "Су-шеф",
+        "url": "https://hh.ru/vacancy/91967309",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "employer": "Группа компаний Hadson Family",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92002310",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/92002310",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Куликовский Антон Андреевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91750292",
+        "title": "Повар холодного и горячего цеха в ресторан Остерия Марио и Швили (ТЦ Красный кит)",
+        "url": "https://hh.ru/vacancy/91750292",
+        "salary_from": null,
+        "salary_to": 95000,
+        "employer": "Ресторанный Холдинг Тигрус",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91874310",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91874310",
+        "salary_from": 24000000,
+        "salary_to": 27200000,
+        "employer": "Morshyn",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91223909",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91223909",
+        "salary_from": 80000,
+        "salary_to": 88000,
+        "employer": "Чен Ок Сун",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92009362",
+        "title": "Повар холодного цеха в ресторан \"Extra Virgin\"",
+        "url": "https://hh.ru/vacancy/92009362",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Беверли",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92080303",
+        "title": "Повар холодного цеха",
+        "url": "https://hh.ru/vacancy/92080303",
+        "salary_from": 60000,
+        "salary_to": 110000,
+        "employer": "Dобрые суши, доставка роллов",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91948366",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91948366",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "employer": "Бар Улицы",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91120119",
+        "title": "Повар ресторана",
+        "url": "https://hh.ru/vacancy/91120119",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employer": "ТКЮ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91902843",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91902843",
+        "salary_from": 85000,
+        "salary_to": null,
+        "employer": "Кафе-ресторан ВЕЛЬВЕТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91506459",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91506459",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employer": "Вудварс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91338853",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91338853",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employer": "Библиотека",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91332182",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91332182",
+        "salary_from": 55000,
+        "salary_to": 70000,
+        "employer": "ЛЕВ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91573462",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91573462",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Pashkin Family",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91480049",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91480049",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Трактир на Гороховой",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91734575",
+        "title": "Повар в \"Ресторан честных цен\" (Куйбышева 128)",
+        "url": "https://hh.ru/vacancy/91734575",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer": "EMELYANOV TEAM",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91014975",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91014975",
+        "salary_from": 55000,
+        "salary_to": 65000,
+        "employer": "Pinot (ООО Пинот)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91679214",
+        "title": "Повар горячего цеха на паста в итальянский ресторан",
+        "url": "https://hh.ru/vacancy/91679214",
+        "salary_from": 75000,
+        "salary_to": 90000,
+        "employer": "Тоскана Гриль",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91859135",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91859135",
+        "salary_from": 91000,
+        "salary_to": 91000,
+        "employer": "Омега",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92038785",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/92038785",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employer": "Wild West bar",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "90176420",
+        "title": "Ночной повар",
+        "url": "https://hh.ru/vacancy/90176420",
+        "salary_from": 85100,
+        "salary_to": 113500,
+        "employer": "Теремок, Группа компаний",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91807756",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91807756",
+        "salary_from": 85000,
+        "salary_to": 95000,
+        "employer": "AYS GROUP",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91878958",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91878958",
+        "salary_from": 75000,
+        "salary_to": 90000,
+        "employer": "Квартира 44",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91992439",
+        "title": "Повар в горячий цех",
+        "url": "https://hh.ru/vacancy/91992439",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "PANORAMA A.S.P.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91083227",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91083227",
+        "salary_from": 69000,
+        "salary_to": null,
+        "employer": "LAYOUT",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91748359",
+        "title": "Повар холодного цеха",
+        "url": "https://hh.ru/vacancy/91748359",
+        "salary_from": 88000,
+        "salary_to": 105000,
+        "employer": "23 Век",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92038279",
+        "title": "Домашний повар",
+        "url": "https://hh.ru/vacancy/92038279",
+        "salary_from": 120000,
+        "salary_to": 155000,
+        "employer": "Семья и Персонал",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92089851",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/92089851",
+        "salary_from": 62000,
+        "salary_to": 84000,
+        "employer": "ТРАДИЦИЯ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91250918",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91250918",
+        "salary_from": 60000,
+        "salary_to": 85000,
+        "employer": "Розмарин",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91902222",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91902222",
+        "salary_from": 24000000,
+        "salary_to": 28000000,
+        "employer": "Антаев Х.М.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91816172",
+        "title": "Повар в ресторан Рыба Моя",
+        "url": "https://hh.ru/vacancy/91816172",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Рыба Моя",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91792725",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91792725",
+        "salary_from": 65000,
+        "salary_to": 71000,
+        "employer": "Рестарт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91846065",
+        "title": "Повар (начинающий повар)",
+        "url": "https://hh.ru/vacancy/91846065",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "Грехов Максим Сергеевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91321227",
+        "title": "Повар горячего цеха",
+        "url": "https://hh.ru/vacancy/91321227",
+        "salary_from": 65000,
+        "salary_to": 90000,
+        "employer": "Толстый Фраер-2",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92019103",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/92019103",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "Орлова Любовь",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91934518",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91934518",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Джаз Холл",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91388737",
+        "title": "Повар холодного и горячего цехов",
+        "url": "https://hh.ru/vacancy/91388737",
+        "salary_from": 50000,
+        "salary_to": 65000,
+        "employer": "Коферумс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91812910",
+        "title": "Су-шеф",
+        "url": "https://hh.ru/vacancy/91812910",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer": "Яуза",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91266751",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91266751",
+        "salary_from": 60000,
+        "salary_to": 70000,
+        "employer": "Кафе Сим-Сим",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91530225",
+        "title": "Повар холодного цеха смена 4000₽",
+        "url": "https://hh.ru/vacancy/91530225",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "employer": "Рыба Моя",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "89645456",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/89645456",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer": "Азбука вкуса",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91463903",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91463903",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employer": "Бисквит",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91317884",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91317884",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "employer": "Марк и Лев",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "90803423",
+        "title": "Повар в премиальный ресторан \"Кофемания\"",
+        "url": "https://hh.ru/vacancy/90803423",
+        "salary_from": 79000,
+        "salary_to": 89000,
+        "employer": "Кофемания",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91702043",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91702043",
+        "salary_from": 94000,
+        "salary_to": null,
+        "employer": "ООО КорпусГрупп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91942381",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91942381",
+        "salary_from": 52000,
+        "salary_to": 80000,
+        "employer": "Пакмен Групп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91128191",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/91128191",
+        "salary_from": 91000,
+        "salary_to": 104000,
+        "employer": "Пятый Элемент",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91716032",
+        "title": "Повар холодного цеха и горячего цеха",
+        "url": "https://hh.ru/vacancy/91716032",
+        "salary_from": 88000,
+        "salary_to": null,
+        "employer": "Руспитание",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91427238",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91427238",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "Ин Вино",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "90991179",
+        "title": "Повар/Повар-Универсал",
+        "url": "https://hh.ru/vacancy/90991179",
+        "salary_from": 55500,
+        "salary_to": 75500,
+        "employer": "Барбекю",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91729451",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91729451",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employer": "Елка 2.0 lounge",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91209607",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91209607",
+        "salary_from": 65000,
+        "salary_to": null,
+        "employer": "Стефанова Виктория Дончева",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91950973",
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/91950973",
+        "salary_from": 65000,
+        "salary_to": 80000,
+        "employer": "Приморские Бани",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92004459",
+        "title": "Повар-универсал",
+        "url": "https://hh.ru/vacancy/92004459",
+        "salary_from": 85000,
+        "salary_to": null,
+        "employer": "Контакт-групп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "92005409",
+        "title": "Повар универсал в кафе быстрого питания",
+        "url": "https://hh.ru/vacancy/92005409",
+        "salary_from": 29600000,
+        "salary_to": 30400000,
+        "employer": "Полина",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "91764697",
+        "title": "Повар-универсал на турбазу",
+        "url": "https://hh.ru/vacancy/91764697",
+        "salary_from": null,
+        "salary_to": 105000,
+        "employer": "Приисковый",
+        "api": "HeadHunter"
+    }
+]
